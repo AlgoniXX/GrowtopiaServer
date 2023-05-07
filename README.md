@@ -17,10 +17,10 @@ This project has been published under GNU AFFERO GPL license, so you need to **p
 
 If you want to support the development of this project, make sure you contribute to this repo!
 
-Make Sure To Check Out My Youtube Channel: (JenZip GT)
+# Make Sure To Check Out My Youtube Channel: (JenZip GT)
 - https://www.youtube.com/channel/UCBpSmvDyThHz7obkqivKTLA
 
-Updates:
--WinHTTP, added winhttp.h for webhook messages using winhttp by microsoft
--Added ItemDat v15 Support
--Switched to x64, by changing enet.lib to enet64.lib and changed input directories
+# Updates:
+- WinHTTP, added winhttp.h for webhook messages using winhttp by microsoft
+- Added ItemDat v15 Support
+- Switched to x64, by changing enet.lib to enet64.lib and changed input directories
