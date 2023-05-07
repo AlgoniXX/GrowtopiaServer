@@ -1,7 +1,0 @@
-﻿enet server test.obj : error LNK2001: unresolved external symbol __imp__WinHttpOpen@20
-enet server test.obj : error LNK2001: unresolved external symbol __imp__WinHttpConnect@16
-enet server test.obj : error LNK2001: unresolved external symbol __imp__WinHttpOpenRequest@28
-enet server test.obj : error LNK2001: unresolved external symbol __imp__WinHttpSendRequest@28
-enet server test.obj : error LNK2001: unresolved external symbol __imp__WinHttpReceiveResponse@8
-enet server test.obj : error LNK2001: unresolved external symbol __imp__WinHttpCloseHandle@4
-C:\Users\gtps6\Desktop\GrowtopiaServer-main\Release\enet server test.exe : fatal error LNK1120: 6 unresolved externals
